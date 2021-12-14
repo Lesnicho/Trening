@@ -1,3 +1,7 @@
+body{
+    background-image: url(https://images.pexels.com/photos/2559941/pexels-photo-2559941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    width: 1355px;;
+}
 main{
     display: flex;
     flex-direction: column;
