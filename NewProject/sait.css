@@ -5,3 +5,12 @@ main{
     align-items: center;
 
 }
+
+.inp1, .inp2{
+    background: darkturquoise;
+}
+
+button{
+    margin: 12px;
+    background-color:darkseagreen;
+}
